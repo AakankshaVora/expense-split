@@ -1,27 +1,13 @@
 
-
-<div align="center">
-  <a href="https://splitapp-rnjo.onrender.com/">
-    <img src="https://github.com/tuzup/SplitApp/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
-  </a>
-
   <h2 align="center">SplitApp</h2>
 
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
     <br />
-    <a href="https://github.com/tuzup/SplitApp/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://splitapp-rnjo.onrender.com/">View Demo</a>
-    ·
-    <a href="https://github.com/tuzup/SplitApp/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tuzup/SplitApp/issues">Request Feature</a>
   </p>
 </div>
 
-![SplitApp](https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/dashboard-main-transparent.png)
+![SplitApp](SS of Dashboard)
 
 ## MERN Stack Group Expense Splitting Application
 
@@ -32,13 +18,13 @@
       - [Backend](#backend)
       - [Database](#database)
   * [Configuration and Setup](#configuration-and-setup)
-  * [License](#license)
+  
 
 
 ## Introduction
-This is a side project I've been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed to split group expense between friends. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the [Live App](https://splitapp-rnjo.onrender.com/) and start adding your expenses or download the entire [Source code](https://github.com/tuzup/SplitApp/) and run it on your server. This project is something I've been working on in my free time so I cannot be sure that everything will work out correctly. But I'll appreciate you if can report any issue.
+A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed to split group expense between friends. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc...
 
-![Features](https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/combined-screenshot.png)
+![Features](ScreenSHot link)
 
 ## Key Features
 - Create user groups and track group expense 
@@ -115,14 +101,4 @@ $ npm install (to install server-side dependencies)
 I intend to keep adding more features to this application, so if you like it, please give it a star, that will encourage me to 
 to keep improving the project.
 
-## License
 
-This project is MIT licensed.
-
-Copyright 2022 Sunny G Vaikathuparampan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
